@@ -2,20 +2,20 @@ Vnes izmeneniz v README.md
 Vnes izmeneniz v README.md
 
 
-#Файлы будут проигнорированы в будущем следующие:
+# Файлы будут проигнорированы в будущем следующие:
 
 
 
 
 
-# Локальные каталоги .terraform
+Локальные каталоги .terraform
 **/.terraform/*
 
-#Файлы .
+Файлы .
 tfstate *.tfstate
 *.tfstate.*
 
-# Файлы
+Файлы
 журнала сбоев crash.log
 сбой.*.log
 
@@ -40,7 +40,7 @@ override.tf.json
 !example_override.tf
 
 Включите файлы tfplan, чтобы игнорировать вывод команды plan: terraform plan -out=tfplan
- # пример: *tf plan*
+пример: *tf plan*
 
 Игнорируйте файлы конфигурации CLI
 .terraformrc
