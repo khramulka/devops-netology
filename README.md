@@ -1,5 +1,4 @@
-Vnes izmeneniz v README.md
-Vnes izmeneniz v README.md
+
 
 
 # Файлы будут проигнорированы в будущем следующие:
